@@ -14,12 +14,4 @@ bool isArmstrong(int num) {
         num /= 10;
     }
     if(sum==originalNum)
-    {
-        return true;
-    }
-    else
-    {
-        return false;
-    }
-}
-//demo
+
